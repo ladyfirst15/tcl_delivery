@@ -60,5 +60,5 @@ spring:
           destination: cook
           contentType: application/json
         event-out:
-          destination: cook
+          destination: TCL_20200831
           contentType: application/json
