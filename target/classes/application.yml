@@ -57,7 +57,7 @@ spring:
       bindings:
         event-in:
           group: delivery
-          destination: TCL_20200831
+          destination: cook
           contentType: application/json
         event-out:
           destination: TCL_20200831
